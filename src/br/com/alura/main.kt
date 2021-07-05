@@ -1,8 +1,11 @@
 package br.com.alura
 
 fun main() {
-    testaSet()
+    testaMap()
+
 }
+
+
 
 
 
